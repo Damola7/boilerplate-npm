@@ -3,6 +3,7 @@
 	"author": "Jubril Shotayo",
 	"description": "A project to practice back-end",
 	"keywords": ["practice", "descriptive", "interactive", "freecodecamp"],
+	"license":  "read-only",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
