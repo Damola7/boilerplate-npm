@@ -4,6 +4,7 @@
 	"description": "A project to practice back-end",
 	"keywords": ["practice", "descriptive", "interactive", "freecodecamp"],
 	"license":  "read-only",
+	"version": "2.1.31.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
